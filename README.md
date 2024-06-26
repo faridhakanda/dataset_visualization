@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+If your interest to run this on your local machine
+firstly clone this repo
+next install node_module or nextjs 
 
 First, run the development server:
 
